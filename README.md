@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Baobob
+# Hi there 👋, I'm Tim
 - Junior Web developer
 - HTML, CSS, Javascript, Python
 
