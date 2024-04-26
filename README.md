@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tim
 - Junior Web developer
-- HTML, CSS, Javascript, Python
+- HTML, CSS, Javascript, PHP
 
 ## Last Projects :
 
